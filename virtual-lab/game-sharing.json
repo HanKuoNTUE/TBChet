@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 2,
+  "publicationOrigin": "https://catapultlab-xhpoxzyr.manus.game",
+  "title": "投石機虛擬實驗室",
+  "description": "調整投石臂角度、拉力與球體重量，觀察拋射軌跡、命中目標並完成實驗紀錄。",
+  "defaultCaptions": {
+    "x": "投石機虛擬實驗室：調整變因、觀察拋射結果，完成你的科技實驗。",
+    "facebook": "投石機虛擬實驗室：調整變因、觀察拋射結果，完成你的科技實驗。",
+    "reddit": "投石機虛擬實驗室：調整變因、觀察拋射結果，完成你的科技實驗。",
+    "discord": "投石機虛擬實驗室：調整變因、觀察拋射結果，完成你的科技實驗。"
+  },
+  "assets": {
+    "og": {
+      "digest": "sha256:ae0547e936280dddaf4de4e1b4cc16c50282f4c86581d211d1f8a7c3ab996bbb",
+      "path": "share/ae0547e936280dddaf4de4e1b4cc16c50282f4c86581d211d1f8a7c3ab996bbb.png",
+      "mime": "image/png",
+      "width": 2560,
+      "height": 1440,
+      "sizeBytes": 4425595,
+      "sourcePath": "assets/share/og.png"
+    },
+    "favicon": {
+      "digest": "sha256:2be2dcd0cb2cdec9635c00fc83d997d8a6900a4397a00b84140e696199237974",
+      "path": "share/2be2dcd0cb2cdec9635c00fc83d997d8a6900a4397a00b84140e696199237974.png",
+      "mime": "image/png",
+      "width": 256,
+      "height": 256,
+      "sizeBytes": 114664,
+      "sourcePath": "assets/share/favicon.png"
+    }
+  }
+}
